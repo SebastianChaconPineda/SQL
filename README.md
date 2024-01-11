@@ -66,6 +66,6 @@ While these projects showcase my current SQL capabilities, I am committed to exp
 
 ## Contact Information
 
-Interested in collaboration or have job opportunities to discuss? Reach out to me via email at [your.email@example.com]. Connect on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/) to explore more about my professional journey.
+Interested in collaboration or have job opportunities to discuss? Reach out to me via email at sebaschacon10@gmail.com. Connect on [LinkedIn](https://www.linkedin.com/in/sebaschacon/) to explore more about my professional journey.
 
 Thank you for exploring my SQL portfolio!
